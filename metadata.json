@@ -1,0 +1,8 @@
+{
+  "name": "Gemini AI Showcase",
+  "description": "A comprehensive web application demonstrating the versatile capabilities of the Google Gemini API, including text and image generation, video creation, real-time voice conversations, and grounded search.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
